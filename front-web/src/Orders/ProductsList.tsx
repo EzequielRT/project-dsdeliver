@@ -5,7 +5,7 @@ import { Product } from "./types";
 type Props = {
     products: Product[];
     selectedProducts: Product[];
-    onSelectProduct: (product: Product) => void
+    onSelectProduct: (product: Product) => void;
 }
 
 function ProductsList({ products, selectedProducts, onSelectProduct }: Props) {
