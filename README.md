@@ -1,13 +1,12 @@
 # project-dsdeliver 
-The application consists of the management of special dishes of Brazilian cuisine and provides a fast, practical and safe system for the delivery of your favorite meal.
 
-Project Semana DevSuperior 2
+Projeto da Semana DevSuperior 2
 
-You can see this application working in real time over here: https://project-dsdeliver.netlify.app/
+Você pode ver o aplicativo funcionando em tempo real aqui: https://project-dsdeliver.netlify.app/
 
-<li> It can take a minute to reconnect to Heroku and show up all the dishes. Please wait a little bit after openning the application </li>
+<li> Pode demorar um minuto para se reconectar ao Heroku e mostrar todos os pratos. Aguarde um pouco depois de abrir o aplicativo! </li>
 
-# Technologies used
+# Tecnologias Usadas:
 <h2> Back end </h2>
 <li> Java </li>
 <li> Spring Boot </li>
@@ -23,7 +22,7 @@ You can see this application working in real time over here: https://project-dsd
 <li> Apex Charts </li>
 <li> Expo </li>
 
-# Deployment in production
+# Deploy em produção:
 <li> Back end: Heroku </li>
 <li> Front end web: Netlify </li>
 <li> Database: Postgresql </li>
